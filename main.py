@@ -2,6 +2,8 @@ from art import logo
 
 print(logo)
 
+""" Will add more operations as needed """
+
 def add(n1, n2):
     return n1 + n2
 
